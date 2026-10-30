@@ -27,37 +27,45 @@ using AWS CLI, IAM roles and Bash scripting.
 * Website deployed and accessible through public IP
 * Project version-controlled using Git
 
-# Project Screenshots
+## Project Screenshots
+
+1\. Website Hosted on AWS EC2
 
 
 
-\### 1. Website Hosted on AWS EC2
-
-!\[EC2 Website](screenshots/ec2-website.png)
+<img src="screenshots/ec2-website.png" alt="Website hosted on AWS EC2" width="800">
 
 
 
-\### 2. EC2 Instance Configuration
-
-!\[EC2 Instance](screenshots/ec2-instance.png)
+2\. EC2 Instance Configuration
 
 
 
-\### 3. IAM Role and Permissions
-
-!\[IAM Role](screenshots/iam-role.png)
+<img src="screenshots/ec2-instance.png" alt="EC2 instance configuration" width="800">
 
 
 
-\### 4. S3 Backup Storage
-
-!\[S3 Backup](screenshots/s3-backup.png)
+3\. IAM Role and Permissions
 
 
 
-\### 5. Backup and Recovery
+<img src="screenshots/iam-role.png" alt="IAM role and permissions" width="800">
 
-!\[Backup Recovery](screenshots/backup-recovery.png)
+
+
+4\. Amazon S3 Backup Storage
+
+
+
+<img src="screenshots/s3-backup.png" alt="Amazon S3 backup storage" width="800">
+
+
+
+5\. Backup and Recovery Process
+
+
+
+<img src="screenshots/backup-recovery.png" alt="Backup and recovery process" width="800">
 
 ## Planned Implementation
 
