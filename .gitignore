@@ -1,0 +1,6 @@
+*.pem
+.env
+.aws/
+credentials
+*.log
+__pycache__/
